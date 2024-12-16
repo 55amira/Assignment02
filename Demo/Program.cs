@@ -6,6 +6,31 @@ namespace Demo
     {
         static void Main()
         {
+
+            #region Control Statment: 2.Loops Statment (For,Foreach)
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    Console.WriteLine("Hello Word");
+            //}
+            //int i = 0;
+            //for (Console.WriteLine("Hello 1"); i < 10; Console.WriteLine("Hello 2"))
+            //{
+            //    Console.WriteLine("Hello Word");
+            //    i++;
+            //}
+
+            int[] Numbers = { 1, 2, 3, 4, 5, 6 };
+            //for (int i = 0; i < Numbers.Length; i++)
+            //{ 
+            //     Console.WriteLine(Numbers[i]); 
+            //}
+
+            //foreach (int i in Numbers) 
+            //{
+            //    Console.WriteLine(Numbers[i]);
+            //} 
+            #endregion
+
             #region String
 
             //string S01;

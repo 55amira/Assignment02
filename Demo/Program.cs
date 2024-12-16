@@ -8,8 +8,17 @@ namespace Demo
         {
 
 
+            #region String Format
+            //int X=3,Y=4;
+            //string Message = "Equation : " + X + "+" + Y + "=" + (X + Y);
+            //Console.WriteLine(Message);
 
+            //string Message2 = string.Format("Equation : {0}+{1}={2}", X, Y, X + Y);
+            //Console.WriteLine(Message2);
 
+            //string message3 = $"Equation : {X}+{Y}={X + Y}";
+            //Console.WriteLine(message3); 
+            #endregion
             #region Control Statment: 2.Loops Statment (For,Foreach)
             //for (int i = 0; i < 10; i++)
             //{
@@ -68,12 +77,6 @@ namespace Demo
             //Console.WriteLine(Number);
 
             #endregion
-
-
-
-
-
-
 
             #region String
 

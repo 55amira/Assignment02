@@ -45,6 +45,18 @@ namespace Demo
 
             #endregion
 
+            #region BulidFunctionString
+            //string S01 = "Hello Ahmed";
+            //string Result = S01.Substring(3);
+            //Console.WriteLine(Result);
+
+            //Console.WriteLine(S01.Replace("Hello", "Welcome"));
+            //Console.WriteLine(S01.StartsWith("H"));
+            //S01.ToCharArray();
+
+
+
+            #endregion
 
 
 
